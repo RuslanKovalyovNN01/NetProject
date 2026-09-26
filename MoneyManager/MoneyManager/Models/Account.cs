@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MoneyManager
+namespace MoneyManager.Models
 {
-    internal class Operation
+    internal class Account
     {
     }
 }
