@@ -8,5 +8,7 @@ namespace MoneyManager
 {
     internal class Product
     {
+        int id;
+
     }
 }
