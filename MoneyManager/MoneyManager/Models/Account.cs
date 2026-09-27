@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace MoneyManager.Models
 {
-    internal class Account
+    public class Account
     {
         public int Id { get; set; }
-
         public required string Name { get; set; }
-
         public decimal Balance { get; set; }
     }
 }
