@@ -5,6 +5,7 @@ namespace MoneyManager
 {
 
     List<Account> accounts = new List<Account>();
+    int count = 0;
     public partial class Form1 : Form
     {
         public Form1()
